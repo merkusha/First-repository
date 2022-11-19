@@ -94,7 +94,7 @@ body * {
 }
 
 .hero {
-   background-image: url("../css/img/hero.jpeg");
+   background-image: url("../css/img/hero.JPEG");
    background-size: cover;
    height: 707px;
    padding-top: 194px;
