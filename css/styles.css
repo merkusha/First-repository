@@ -1,15 +1,15 @@
 @font-face {
-   src: url(css/fonts/NunitoSans-Regular.ttf);
+   src: url(fonts/NunitoSans-Regular.ttf);
    font-family: "Nunito Sans Regular";
 }
 
 @font-face {
-   src: url(css/fonts/NunitoSans-Italic.ttf);
+   src: url(fonts/NunitoSans-Italic.ttf);
    font-family: "Nunito Sans Italic";
 }
 
 @font-face {
-   src: url(css/fonts/YesevaOne-Regular.ttf);
+   src: url(fonts/YesevaOne-Regular.ttf);
    font-family: "Yeseva One Regular";
 }
 
