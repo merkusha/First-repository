@@ -1,15 +1,15 @@
 @font-face {
-   src: url(../css/fonts/NunitoSans-Regular.ttf);
+   src: url(css/fonts/NunitoSans-Regular.ttf);
    font-family: "Nunito Sans Regular";
 }
 
 @font-face {
-   src: url(../css/fonts/NunitoSans-Italic.ttf);
+   src: url(css/fonts/NunitoSans-Italic.ttf);
    font-family: "Nunito Sans Italic";
 }
 
 @font-face {
-   src: url(../css/fonts/YesevaOne-Regular.ttf);
+   src: url(css/fonts/YesevaOne-Regular.ttf);
    font-family: "Yeseva One Regular";
 }
 
@@ -94,7 +94,7 @@ body * {
 }
 
 .hero {
-   background-image: url("../css/img/hero.JPEG");
+   background-image: url("css/img/hero.jpg");
    background-size: cover;
    height: 707px;
    padding-top: 194px;
@@ -216,7 +216,7 @@ body * {
 }
 
 .hero-2-image {
-   background-image: url(../css/img/hero2.jpg);
+   background-image: url(css/img/hero2.jpg);
    height: 482px;
    width: 679px;
    margin-left: 626px;
@@ -296,7 +296,7 @@ body * {
 }
 
 .arrow-svg {
-   background-image: url(../css/img/arrow-image.svg);
+   background-image: url(css/img/arrow-image.svg);
    height: 13px;
    width: 206px;
    margin-top: 80px;
@@ -304,7 +304,7 @@ body * {
 }
 
 .svg-image {
-   background-image: url(../css/img/arrow-svg.svg);
+   background-image: url(css/img/arrow-svg.svg);
    width: 196px;
    height: 66.79px;
    margin-left: 623px;
@@ -317,7 +317,7 @@ body * {
 }
 
 .video-image {
-   background-image: url(../css/img/video-image.jpg);
+   background-image: url(css/img/video-image.jpg);
    width: 817px;
    height: 434px;
    margin-left: 309px;
@@ -341,7 +341,7 @@ body * {
 }
 
 .icon-video {
-   background-image: url(../css/img/icon\ video.svg);
+   background-image: url(css/img/icon\ video.svg);
    background-position: center;
    background-size: 85px 85px;
    display: inline-block;
@@ -461,7 +461,7 @@ form {
 }
 
 .icon-photos {
-   background-image: url(../css/img/photos-svg.svg);
+   background-image: url(css/img/photos-svg.svg);
    width: 114px;
    height: 28px;
    margin-left: 643px;
@@ -477,7 +477,7 @@ form {
 }
 
 .photos-1 {
-   background-image: url(../css/img/photos-1.jpg);
+   background-image: url(css/img/photos-1.jpg);
    width: 392px;
    height: 421px;
    margin-left: 100px;
@@ -519,7 +519,7 @@ form {
 }
 
 .photos-2 {
-   background-image: url(../css/img/photos=2.jpg);
+   background-image: url(css/img/photos=2.jpg);
    width: 392px;
    height: 421px;
    margin-right: 30px;
@@ -528,7 +528,7 @@ form {
 }
 
 .photos-3 {
-   background-image: url(../css/img/photos-3.jpg);
+   background-image: url(css/img/photos-3.jpg);
    width: 392px;
    height: 421px;
    margin-right: 100px;
@@ -563,7 +563,7 @@ form {
 }
 
 .list {
-   background-image: url(../css/img/photo\ back.jpg);
+   background-image: url(css/img/photo\ back.jpg);
    background-size: cover;
    list-style-type: none;
    counter-reset: num;
@@ -722,7 +722,7 @@ form {
 }
 
 .pig {
-   background-image: url(../css/img/pig.svg);
+   background-image: url(css/img/pig.svg);
    height: 85px;
    width: 33%;
 }
@@ -738,7 +738,7 @@ form {
 
 .picture-list {
    height: 864;
-   background-image: url(../css/img/фон.jpg);
+   background-image: url(css/img/фон.jpg);
    margin-top: 0;
 }
 
@@ -784,7 +784,7 @@ form {
 }
 
 .pictures-1 {
-   background-image: url(../css/img/picture1.jpg);
+   background-image: url(css/img/picture1.jpg);
    background-size: cover;
    height: 557;
    width: 354;
@@ -793,7 +793,7 @@ form {
 }
 
 .pictures-2 {
-   background-image: url(../css/img/picture2.jpg);
+   background-image: url(css/img/picture2.jpg);
    background-size: cover;
    width: 354;
    height: 349;
@@ -802,7 +802,7 @@ form {
 }
 
 .pictures-3 {
-   background-image: url(../css/img/picture\ 3.jpg);
+   background-image: url(css/img/picture\ 3.jpg);
    background-size: cover;
    width: 354;
    height: 275;
@@ -811,7 +811,7 @@ form {
 }
 
 .pictures-4 {
-   background-image: url(../css/img/picture4.jpg);
+   background-image: url(css/img/picture4.jpg);
    background-size: cover;
    width: 354;
    height: 625;
@@ -850,7 +850,7 @@ form {
 }
 
 .hands-svg {
-   background-image: url(../css/img/hands.svg);
+   background-image: url(css/img/hands.svg);
    width: 114;
    height: 28;
    margin-left: 645;
@@ -921,27 +921,27 @@ form {
 }
 
 .maria {
-   background: url(../css/img/maria\ j.jpg);
+   background: url(css/img/maria\ j.jpg);
 }
 
 .mary {
-   background-image: url(../css/img/Maria\ svg.svg);
+   background-image: url(css/img/Maria\ svg.svg);
 }
 
 .sergey {
-   background: url(../css/img/Sergey.jpg);
+   background: url(css/img/Sergey.jpg);
 }
 
 .serg {
-   background-image: url(../css/img/sergey\ svg.svg);
+   background-image: url(css/img/sergey\ svg.svg);
 }
 
 .egor {
-   background: url(../css/img/egor.jpg);
+   background: url(css/img/egor.jpg);
 }
 
 .egor2 {
-   background-image: url(../css/img/egor\ svg.svg);
+   background-image: url(css/img/egor\ svg.svg);
 }
 
 .black-section {
@@ -950,7 +950,7 @@ form {
 
 .black-box {
    height: 1000;
-   background-image: url(../css/img/background\ box.jpg);
+   background-image: url(css/img/background\ box.jpg);
    background-size: cover;
    margin-top: 300;
 }
@@ -1032,7 +1032,7 @@ form {
 }
 
 .orange-svg {
-   background: url(../css/img/data\ svg.svg);
+   background: url(css/img/data\ svg.svg);
    background-position: center;
    height: 28;
    width: 71;
@@ -1040,7 +1040,7 @@ form {
 }
 
 .map {
-   background: url(../css/img/map.jpg);
+   background: url(css/img/map.jpg);
    background-size: 120%;
    width: 925;
    height: 465;
@@ -1073,7 +1073,7 @@ form {
    }
 
    .hero {
-      background-image: url(../css/img/heromobile.jpg);
+      background-image: url(css/img/heromobile.jpg);
       height: 910;
       max-width: 100%;
    }
@@ -1135,7 +1135,7 @@ form {
    }
 
    .hero-2-image {
-      background-image: url(../css/img/hero2mobile.jpg);
+      background-image: url(css/img/hero2mobile.jpg);
       background-size: cover;
       margin-right: 0;
       margin-left: 40;
@@ -1180,7 +1180,7 @@ form {
    }
 
    .hero-2-arrow {
-      background-image: url(../css/img/стрелка.svg);
+      background-image: url(css/img/стрелка.svg);
       background-size: cover;
       height: 60px;
       width: 60px;
@@ -1191,7 +1191,7 @@ form {
    }
 
    .hero-2-arrow2 {
-      background-image: url(../css/img/стрелка.svg);
+      background-image: url(css/img/стрелка.svg);
       background-size: cover;
       height: 60px;
       width: 60px;
@@ -1311,7 +1311,7 @@ form {
    }
 
    .photos-2 {
-      background-image: url(../css/img/foto2.jpg);
+      background-image: url(css/img/foto2.jpg);
       background-size: cover;
       width: 73%;
       margin-left: 95px;
@@ -1320,7 +1320,7 @@ form {
    }
 
    .photos-3 {
-      background-image: url(../css/img/foto3.jpg);
+      background-image: url(css/img/foto3.jpg);
       background-size: cover;
       width: 73%;
       margin-left: 95px;
@@ -1406,7 +1406,7 @@ form {
       padding-left: 250;
    }
    .hero-2-arrow22{
-      background-image: url(../css/img/стрелка.svg);
+      background-image: url(css/img/стрелка.svg);
       background-size: cover;
       height: 60px;
       width: 60px;
@@ -1416,7 +1416,7 @@ form {
       z-index: 1;
    }
    .hero-2-arrow23{
-      background-image: url(../css/img/стрелка.svg);
+      background-image: url(css/img/стрелка.svg);
       background-size: cover;
       height: 60px;
       width: 60px;
