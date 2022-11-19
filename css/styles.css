@@ -722,7 +722,7 @@ form {
 }
 
 .pig {
-   background-image: url(css/img/pig.svg);
+   background-image: url(img/pig.svg);
    height: 85px;
    width: 33%;
 }
@@ -738,7 +738,7 @@ form {
 
 .picture-list {
    height: 864;
-   background-image: url(css/img/фон.jpg);
+   background-image: url(img/фон.jpg);
    margin-top: 0;
 }
 
