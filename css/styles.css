@@ -94,7 +94,7 @@ body * {
 }
 
 .hero {
-   background-image: url("css/img/hero.jpg");
+   background-image: url("img/hero.jpg");
    background-size: cover;
    height: 707px;
    padding-top: 194px;
@@ -216,7 +216,7 @@ body * {
 }
 
 .hero-2-image {
-   background-image: url(css/img/hero2.jpg);
+   background-image: url(img/hero2.jpg);
    height: 482px;
    width: 679px;
    margin-left: 626px;
